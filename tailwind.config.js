@@ -15,7 +15,10 @@ module.exports = {
         danger: "#E00D00",
         success: "#25DF6C",
         "black-blue":"#0E044B",
-        "light-blue":"#2C309B",
+        "mid-blue":"#2C309B",
+        "light-blue":"#89E8FD",
+        
+        
         
       },
     },
