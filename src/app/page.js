@@ -7,7 +7,7 @@ import ContentDatil from "./components/content1";
 
 export default function Home() {
   return (
-    <main className="flex  flex-col items-center justify-between  w-full  lg:w-3/4 md:w-3/4 h-screen bg-white  mx-auto drop-shadow-lg ">
+    <main className="flex  flex-col items-center justify-between  w-full  lg:w-3/4 md:w-3/4 h-screen   mx-auto drop-shadow-lg ">
       <MainTop/>
       <ContentDatil/>
       <SpecialDetail/>
